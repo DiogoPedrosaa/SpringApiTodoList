@@ -13,6 +13,5 @@ O Padrão é a porta 8080
 Spring Boot |
 Spring MVC |
 Spring Data JPA |
-SpringDoc |
-OpenAPI3 |
+SpringDoc OpenAPI3 |
 MySql
